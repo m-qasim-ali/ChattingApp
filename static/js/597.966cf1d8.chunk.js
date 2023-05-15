@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat=self.webpackChunkchat||[]).push([[597],{597:function(n,e,t){t.r(e);var a=t(2791),c=t(184),u=a.lazy((function(){return t.e(725).then(t.bind(t,725))}));e.default=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)(a.Suspense,{fallback:"Loading...",children:(0,c.jsx)(u,{})})})}}}]);
+//# sourceMappingURL=597.966cf1d8.chunk.js.map

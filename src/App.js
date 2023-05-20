@@ -5,12 +5,13 @@ import ThemeProvider from './theme';
 // components
 import ThemeSettings from './components/settings';
 
+import "./assets/global.css";
+
 function App() {
   return (
     <ThemeProvider>
       <ThemeSettings>
-        {" "}
-        <Router />{" "}
+        <Router />
       </ThemeSettings>
     </ThemeProvider>
   );

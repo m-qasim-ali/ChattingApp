@@ -32,7 +32,7 @@ const SimpleBarStyle = styled(SimpleBarReact)(({ theme }) => ({
     zIndex: 'inherit',
   },
   "& .simplebar-placeholder": {
-    height: '0 !important',
+    height: '0!important',
   }
 }));
 

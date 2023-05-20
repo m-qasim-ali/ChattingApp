@@ -178,7 +178,7 @@ const Chat_History = [
     type: "msg",
     subtype: "doc",
     message: "Yes sure, here you go.",
-    incoming: true,
+    incoming: false,
     outgoing: false,
   },
   {
